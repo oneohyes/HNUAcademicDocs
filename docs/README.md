@@ -12,4 +12,3 @@
 
 [整体设计分析](.\Data/整体设计分析.html)
 
-[封面](.\Data\程序设计实验报告coverpage.docx)
